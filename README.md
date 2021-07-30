@@ -14,3 +14,13 @@
 * Exercício Python #02 - [Respondendo ao usuário](https://github.com/michaelcaxias/python3-curso-em-video/blob/master/exercicios/ex002.py)
 
 #### Primeiros passos
+
+* Exercício Python #03 - [Somando dois Números](https://github.com/michaelcaxias/python3-curso-em-video/blob/master/exercicios/ex003.py)
+
+
+
+
+
+
+
+
