@@ -5,3 +5,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="80px" />
   </a>
 </h1>
+
+### Mundo 1
+
+#### Conhecendo a linguagem
+
+* Exercício Python #01 - [Deixando tudo pronto](https://github.com/michaelcaxias/python3-curso-em-video/blob/master/exercicios/ex001.py)
+* Exercício Python #02 - [Respondendo ao usuário](hhttps://github.com/michaelcaxias/python3-curso-em-video/blob/master/exercicios/ex002.py)
+
+#### Primeiros passos
