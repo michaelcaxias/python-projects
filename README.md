@@ -1,21 +1,21 @@
-<h1 align="center">Exercícios de Python do Curso em Video e projetos pessoais</h1>
+<h1 align="center">Repositório de Projetos utilizando Python</h1>
 <h1 align="center">
   <a href="https://www.cursoemvideo.com/">
-    <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" width="250px" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="80px" />
   </a>
 </h1>
 
-### Mundo 1
+### Renomeador de arquivos
 
-#### Conhecendo a linguagem
+* [RenameFiles](https://github.com/michaelcaxias/python-projects/blob/master/renameFiles/renameFiles.py)
 
-* Exercício Python #01 - [Deixando tudo pronto](https://github.com/michaelcaxias/python3-curso-em-video/blob/master/exercicios/ex001.py)
-* Exercício Python #02 - [Respondendo ao usuário](https://github.com/michaelcaxias/python3-curso-em-video/blob/master/exercicios/ex002.py)
+### Curso em Video
 
-#### Primeiros passos
+#### Mundo 1
 
-* Exercício Python #03 - [Somando dois Números](https://github.com/michaelcaxias/python3-curso-em-video/blob/master/exercicios/ex003.py)
+* Exercício Python #01 - [Deixando tudo pronto](https://github.com/michaelcaxias/python-projects/blob/master/exercicios-cem/ex001.py)
+* Exercício Python #02 - [Respondendo ao usuário](https://github.com/michaelcaxias/python-projects/blob/master/exercicios-cem/ex002.py)
+* Exercício Python #03 - [Somando dois Números](https://github.com/michaelcaxias/python-projectso/blob/master/exercicios-cem/ex003.py)
 
 
 
