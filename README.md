@@ -1,4 +1,4 @@
-<h1 align="center">Todos os desafíos de Python do Curso em Video</h1>
+<h1 align="center">Exercícios de Python do Curso em Video e projetos pessoais</h1>
 <h1 align="center">
   <a href="https://www.cursoemvideo.com/">
     <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" width="250px" />
